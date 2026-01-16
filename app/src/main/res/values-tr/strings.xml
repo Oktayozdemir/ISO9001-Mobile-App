@@ -1,9 +1,12 @@
 <resources>
-    <string name="iso9001_title">ISO 9001 Yönetim Sistemi</string>
-    <string name="module_quality_management">Kalite Yönetimi Modülü</string>
-    <string name="feature_document_control">Doküman Kontrolü</string>
-    <string name="feature_internal_audit">İç Denetim</string>
-    <string name="feature_management_review">Yönetim Gözden Geçirme</string>
-    <string name="feature_customer_satisfaction">Müşteri Memnuniyeti</string>
-    <!-- Add more translations as needed -->
+    <string name="iso9001_clause_1">ISO 9001 Madde 1 - Kapsam</string>
+    <string name="iso9001_clause_2">ISO 9001 Madde 2 - Referanslar</string>
+    <string name="iso9001_clause_3">ISO 9001 Madde 3 - Terimler ve Tanımlar</string>
+    <string name="iso9001_clause_4">ISO 9001 Madde 4 - Organizasyonun Bağlamı</string>
+    <string name="iso9001_clause_5">ISO 9001 Madde 5 - Liderlik</string>
+    <string name="iso9001_clause_6">ISO 9001 Madde 6 - Planlama</string>
+    <string name="iso9001_clause_7">ISO 9001 Madde 7 - Destek</string>
+    <string name="iso9001_clause_8">ISO 9001 Madde 8 - Operasyon</string>
+    <string name="iso9001_clause_9">ISO 9001 Madde 9 - Performans Değerlendirmesi</string>
+    <string name="iso9001_clause_10">ISO 9001 Madde 10 - Sürekli İyileştirme</string>
 </resources>
