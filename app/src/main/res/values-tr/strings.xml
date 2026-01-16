@@ -1,0 +1,9 @@
+<resources>
+    <string name="iso9001_title">ISO 9001 Yönetim Sistemi</string>
+    <string name="module_quality_management">Kalite Yönetimi Modülü</string>
+    <string name="feature_document_control">Doküman Kontrolü</string>
+    <string name="feature_internal_audit">İç Denetim</string>
+    <string name="feature_management_review">Yönetim Gözden Geçirme</string>
+    <string name="feature_customer_satisfaction">Müşteri Memnuniyeti</string>
+    <!-- Add more translations as needed -->
+</resources>
